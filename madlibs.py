@@ -1,1 +1,12 @@
 # TODO Create your inputs, variables, and add your story here!
+noun = input("Enter a noun: ")
+adjective = input("Enter an adjective: ")
+verb = input("Enter a verb: ")
+name = input("Enter a name: ")
+adjective2 = input("Enter an adjective: ")
+adjective3 = input("Enter an adjective: ")
+adjective4 = input("Enter an adjective: ")
+noun2 = input("Enter a noun: ")
+noun3 = input("Enter a noun: ")
+verb2 = input("Enter a verb: ")
+print("the hero of this story isnt your normal hero, because they are ", adjective, ". our hero was seen ", verb,"ing down the street today, towards ", noun, "upon seeing this sight, our hero calls for the help of ", name, "who was feeling ", adjective2, "at the thought of the journey. Our hero remained ", adjective3, ". This unlikely duo was after the ", adjective4, "sword, an elusive weapon only the ", verb2, " hero can weild! ", name, " tries to pull the sword out of its enclosing, which was surrounded by ", noun2, ". Our hero makes a great attempt and manages to pull the sword out of the ancient rock. Feeling acomplished on their adventure, the party goes to ", noun3, "to celebrate")
